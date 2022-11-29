@@ -1,0 +1,83 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.titulo {
+    font-size: xx-large;
+    text-align: center;
+    line-height: 90px;
+}
+
+.fondo {
+    width: 1280px;
+    height: 727px;
+    background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    text-align: center;
+    width: 1280px;
+    height: 348px;
+
+}
+
+.texto {
+    display: inline-block;
+    padding-right: 32px;
+    width: 42%;
+    text-align: left;
+}
+
+.img {
+    display: inline-block;
+    width: 399x;
+    height: 237px;
+}
+
+.caracteristicas {
+    text-align: center;
+    background-color: #1E1A13;
+    width: 100%;
+    height: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    width: 30%;
+}
+
+.iconos {
+    font-size: 24px
+}
+
+.galeria {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.iguana {
+    width: 316px;
+    height: 202px;
+    margin: 30px;
+}
+
+footer {
+    background-color: #1E1A13;
+    width: 100%;
+    height: 100px;
+    font-size: large;
+    text-align: center;
+}
+
+.footer {
+    position: relative;
+    top: 50%;
+}
